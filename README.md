@@ -1,4 +1,4 @@
-#DEEPCRAFT™ Model Zoo for PSOC™ 
+# DEEPCRAFT™ Model Zoo for PSOC™ 
  ## Anomaly Detection for Vibrating Machinery - Starter Model Project
 
 ## Use-case description
